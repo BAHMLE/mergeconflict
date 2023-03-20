@@ -1,6 +1,6 @@
 print("Hello World!")
 
-def hi(name):
+def hi(Sebhat):
 	print("Hello {}!".format(name))
 
 hi("Denis")
